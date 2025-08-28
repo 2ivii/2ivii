@@ -1,4 +1,4 @@
-## Hi I'm JungMin 🧸
+## 안녕하세요! 정민의 GITHUB에 오신걸 환영합니다 ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ 
 
 <!--
 **2ivii/2ivii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
