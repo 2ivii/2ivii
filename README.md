@@ -12,3 +12,15 @@
 <div>
 <h3>👩‍💻work experience</h3>
 </div>
+<div align="center">
+    <h4>My Git Farm!</h4>
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=2ivii&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/2ivii"
+      height="300em"
+    />
+    </a>
+</div>
+
+
+  
