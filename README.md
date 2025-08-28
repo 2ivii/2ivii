@@ -1,13 +1,18 @@
 <div align="center">
-<h2>안녕하세요! 정민의 GITHUB에 오신걸 환영합니다 ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ </h2>
-</div>
-<div align="center">
+  <h2>안녕하세요! 정민의 GITHUB에 오신걸 환영합니다 ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ </h2>
+  
   <a href="https://editor1190.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
   </a>
   <a href="https://www.instagram.com/jungmimn?igsh=cmdkOHVyZjFxdHdp" target="_blank">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+</div>
+<div align="center">
+
+    💡 저는 한국항공대학교 소프트웨어학과 3학년에 재학중입니다!
+    서버/백엔드에 관심이 많으며 최근엔 인프라 공부를 하려하고있습니다 ٩(*'へ'*)و
+    열심히 깃허브를 더 채워보겠습니다!
 </div>
 <div align="center">
     <h3>Problem Solving!</h3>
