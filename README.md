@@ -9,15 +9,14 @@
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
-<div>
-<h3>👩‍💻work experience</h3>
-</div>
 <div align="center">
-    <h4>My Git Farm!</h4>
+    <h3><b>Github Stats!</b></h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=2ivii&theme=swift&show_icons=true&count_private=true&hide_border=true" align="center" />
+    <h3>My Git Farm!</h3>
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=2ivii&utm_content=farm">
     <img
       src="https://render.gitanimals.org/farms/2ivii"
-      height="300em"
+      height="250em"
     />
     </a>
 </div>
