@@ -37,11 +37,6 @@
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-    <h3>Problem Solving!</h3>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdalssla12" alt="Solved.ac Profile"/>
-    <a href="https://solved.ac/profile/wjdalssla12" target="_blank">
-        <img src="http://mazandi.herokuapp.com/api?handle=wjdalssla12&theme=warm" alt="Solved.ac streak"/>
-    </a>
     <h3><b>Github Stats!</b></h3>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2ivii&theme=swift&show_icons=true&count_private=true&hide_border=true" align="center" />
     <h3>My Git Farm!</h3>
