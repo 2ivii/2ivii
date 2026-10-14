@@ -37,8 +37,6 @@
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-    <h3><b>Github Stats!</b></h3>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2ivii&theme=swift&show_icons=true&count_private=true&hide_border=true" align="center" />
     <h3>My Git Farm!</h3>
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=2ivii&utm_content=farm">
     <img
